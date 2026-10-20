@@ -8,7 +8,7 @@ body, section, header, div, p, h1, h2, h3, ul, li, figure, figcaption {
 }
 body {
    font-family: 'Garamond', Georgia, 'Times New Roman', Times, serif;
-   background-image: url(/workspaces/is-5600-lab-01/images/florence.jpg);
+   background-image: url(./images/florence.jpg);
    background-color: #F0F4F8;
    box-sizing: border-box;
    font-weight: 300;
